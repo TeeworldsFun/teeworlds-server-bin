@@ -1,0 +1,9 @@
+Use standard (XXL)DDrace entities
+
+Special entities : 
+
+ -Deepfreeze = Discard
+
+
+
+Mod by FuroS {626}; based on XXLDDrace by XXLTomate

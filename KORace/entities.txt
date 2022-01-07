@@ -1,0 +1,21 @@
+Use standard (XXL)DDrace entities
+
+
+Special entities : 
+
+
+  -Kill : Finish line (Round finished)
+
+  -Endless Hook off : Checkpoint 1
+
+  -Endless Hook on : Checkpoint 2
+
+  -Hammer other tees off : Checkpoint 3
+
+
+You need to get through the 3 checkpoints before you can finish a round!
+
+If you have problems you can watch ko_matrix.map in the editor.
+
+
+Mod by FuroS {626}; based on DDRace by GreyFoX
